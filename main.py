@@ -26,10 +26,14 @@ def get_all_char():
 
         results = results[:29]
 
-
         if not os.path.exists(file_path):
-            with open(file_path, "w") as csv_file:
+            with open(file_path, "a") as csv_file:
                 csv_file.write("uid,name,url\n")
+                for person in results:
+                    uid = person["uid"]
+                    name = person["name"]
+                    url = person["url"]
+                    csv_file.write(f"{uid},{name},{url}\n")
 
         
         return results
