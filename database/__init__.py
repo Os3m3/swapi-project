@@ -1,0 +1,22 @@
+CREATE TABLE IF NOT EXISTS swapi_characters (
+    uid TEXT PRIMARY KEY,
+    name TEXT,
+    url TEXT,
+    height TEXT,
+    mass TEXT,
+    hair_color TEXT,
+    skin_color TEXT,
+    eye_color TEXT,
+    birth_year TEXT,
+    gender TEXT,
+    homeworld TEXT,
+    homeworld_name TEXT,
+    rotation_period TEXT,
+    orbital_period TEXT,
+    diameter TEXT,
+    climate TEXT,
+    gravity TEXT,
+    terrain TEXT,
+    surface_water TEXT,
+    population TEXT
+);
