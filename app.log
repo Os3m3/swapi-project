@@ -1,0 +1,499 @@
+2025-12-31 11:30:37,087 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 11:40:08,244 | get_all_char_by_id.py | INFO | Error on getting the charecter by his/her id100
+2025-12-31 11:41:26,704 | get_all_char_by_id.py | INFO | There is no character with the 102 id
+2025-12-31 11:42:36,754 | get_all_char_by_id.py | INFO | There is character with the 1.0 id
+2025-12-31 12:12:20,267 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2025-12-31 12:12:24,973 | get_all_char_by_id.py | INFO | There is character with the 1.1 id in the DB
+2025-12-31 12:12:24,974 | get_all_char_by_id.py | INFO | There is no character with the 1.1 id from DB
+2025-12-31 12:12:47,007 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 15:05:28,138 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 15:05:34,484 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2025-12-31 15:05:49,251 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 15:06:50,607 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 15:07:09,627 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 15:09:09,729 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2025-12-31 15:12:25,478 | get_all_planets.py | INFO | Got all planets from DB
+2025-12-31 15:12:30,794 | get_all_planets_by_id.py | INFO | There is planet with the 1 id in the DB
+2025-12-31 15:12:51,656 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 15:13:04,931 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2025-12-31 15:24:34,507 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 15:24:34,662 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 15:34:02,618 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 15:34:02,791 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 15:34:09,567 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 15:34:09,679 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 16:47:57,790 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 16:47:58,205 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 16:48:19,446 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 16:48:19,586 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 16:48:46,670 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 16:48:46,909 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 16:49:25,403 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 16:49:25,553 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 16:53:28,816 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 16:53:29,040 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 16:54:23,817 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 16:54:23,976 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 16:56:30,691 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 16:56:30,834 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 16:57:35,331 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 16:57:35,474 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2025-12-31 16:58:41,480 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2025-12-31 16:58:41,687 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:16:28,996 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:16:29,128 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:17:33,757 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:17:33,879 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:17:54,000 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:17:54,096 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:18:17,674 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:18:17,795 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:18:34,458 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:18:46,287 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:18:46,390 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:19:00,101 | get_all_char_by_id.py | INFO | There is no character with the 1.0 id from DB
+2026-01-01 08:19:18,770 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:19:18,872 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:19:36,867 | get_all_char_by_id.py | INFO | There is no character with the 1 id from DB
+2026-01-01 08:19:46,318 | get_all_char_by_id.py | INFO | There is no character with the 1.0 id from DB
+2026-01-01 08:19:57,167 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:19:57,307 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:20:40,519 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:20:40,680 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:21:01,688 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 08:21:01,688 | get_all_char_by_id.py | INFO | There is no character with the 1.0 id from DB
+2026-01-01 08:21:29,243 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:21:29,402 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:22:03,640 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:22:03,739 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:23:20,580 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:23:20,706 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:23:55,486 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:23:55,651 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:25:18,559 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:25:18,695 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:25:58,046 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:25:58,147 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:26:43,033 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:26:43,217 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:27:58,123 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:27:58,260 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:28:42,694 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:28:42,880 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:28:48,124 | get_all_char_by_id.py | INFO | There is character with the 1 id in the DB
+2026-01-01 08:28:48,125 | get_all_char_by_id.py | INFO | There is no character with the 1 id from DB
+2026-01-01 08:28:56,870 | get_all_char_by_id.py | INFO | There is character with the 2 id in the DB
+2026-01-01 08:28:56,870 | get_all_char_by_id.py | INFO | There is no character with the 2 id from DB
+2026-01-01 08:29:32,319 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:29:32,582 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:29:38,906 | get_all_char_by_id.py | INFO | There is character with the 4 id in the DB
+2026-01-01 08:29:38,906 | get_all_char_by_id.py | INFO | There is no character with the 4 id from DB
+2026-01-01 08:30:15,626 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:30:15,787 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:31:25,659 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:31:25,759 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:31:43,664 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-01 08:31:47,934 | get_all_planets_by_id.py | INFO | There is planet with the 1 id in the DB
+2026-01-01 08:31:50,451 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:31:50,661 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:32:07,081 | get_all_char_by_id.py | INFO | There is character with the 1 id in the DB
+2026-01-01 08:32:07,081 | get_all_char_by_id.py | INFO | There is no character with the 1 id from DB
+2026-01-01 08:32:11,499 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:32:23,946 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:32:24,345 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:32:47,389 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 08:33:05,437 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:33:05,564 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:33:29,322 | get_all_char_by_id.py | INFO | There is character with the 1 id in the DB
+2026-01-01 08:33:29,322 | get_all_char_by_id.py | INFO | There is no character with the 1 id from DB
+2026-01-01 08:33:48,957 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:33:49,096 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:34:33,364 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:34:33,527 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:34:51,753 | homeworld_endpoint.py | ERROR | Error on getting all homeworlds from SWAPI Homeworld
+Traceback (most recent call last):
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\AppData\Roaming\uv\python\cpython-3.11.14-windows-x86_64-none\Lib\http\client.py", line 1395, in getresponse
+    response.begin()
+  File "C:\Users\osamasaid\AppData\Roaming\uv\python\cpython-3.11.14-windows-x86_64-none\Lib\http\client.py", line 325, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\AppData\Roaming\uv\python\cpython-3.11.14-windows-x86_64-none\Lib\http\client.py", line 286, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\AppData\Roaming\uv\python\cpython-3.11.14-windows-x86_64-none\Lib\socket.py", line 718, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\AppData\Roaming\uv\python\cpython-3.11.14-windows-x86_64-none\Lib\ssl.py", line 1314, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\AppData\Roaming\uv\python\cpython-3.11.14-windows-x86_64-none\Lib\ssl.py", line 1166, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='swapi.info', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\osamasaid\Desktop\swapi-project\endpoints\homeworld_endpoint.py", line 44, in get_homeworld
+    res = requests.get(url, timeout=10)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\swapi-project\.venv\Lib\site-packages\requests\adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='swapi.info', port=443): Read timed out. (read timeout=10)
+2026-01-01 08:34:59,984 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 08:35:15,209 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:35:15,399 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:35:51,439 | get_all_char_by_id.py | INFO | There is character with the 4.0 id in the DB
+2026-01-01 08:35:51,456 | get_all_char_by_id.py | INFO | There is character with the 2.0 id in the DB
+2026-01-01 08:35:51,456 | get_all_char_by_id.py | INFO | There is no character with the 2.0 id from DB
+2026-01-01 08:35:56,318 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 08:36:16,094 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:36:16,227 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:36:48,157 | get_all_char_by_id.py | INFO | There is character with the 4.0 id in the DB
+2026-01-01 08:37:04,297 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:37:15,518 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:37:15,696 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:37:59,193 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:38:06,102 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 08:38:10,312 | get_all_char_by_id.py | INFO | There is character with the 2.0 id in the DB
+2026-01-01 08:38:10,312 | get_all_char_by_id.py | INFO | There is no character with the 2.0 id from DB
+2026-01-01 08:38:13,980 | get_all_char_by_id.py | INFO | There is character with the 3.0 id in the DB
+2026-01-01 08:38:13,980 | get_all_char_by_id.py | INFO | There is no character with the 3.0 id from DB
+2026-01-01 08:38:20,263 | get_all_char_by_id.py | INFO | There is character with the 4.0 id in the DB
+2026-01-01 08:38:26,360 | get_all_char_by_id.py | INFO | There is character with the 5.0 id in the DB
+2026-01-01 08:38:57,063 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:39:08,221 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-01 08:39:19,257 | get_all_planets_by_id.py | INFO | There is planet with the 1 id in the DB
+2026-01-01 08:39:22,751 | get_all_planets_by_id.py | INFO | There is planet with the 2 id in the DB
+2026-01-01 08:39:27,190 | get_all_planets_by_id.py | INFO | There is planet with the 4 id in the DB
+2026-01-01 08:39:27,191 | get_all_planets_by_id.py | INFO | Error on getting planet 4 id from DB
+2026-01-01 08:39:29,618 | get_all_planets_by_id.py | INFO | There is planet with the 5 id in the DB
+2026-01-01 08:39:29,618 | get_all_planets_by_id.py | INFO | Error on getting planet 5 id from DB
+2026-01-01 08:39:40,428 | get_all_planets_by_id.py | INFO | There is planet with the 22 id in the DB
+2026-01-01 08:41:38,676 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 08:42:58,850 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:42:59,533 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:43:20,733 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:43:21,031 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:43:28,972 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 08:43:46,822 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:43:47,121 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:43:57,121 | get_all_char_by_id.py | INFO | There is character with the 1 id in the DB
+2026-01-01 08:43:57,122 | get_all_char_by_id.py | INFO | There is no character with the 1 id from DB
+2026-01-01 08:44:16,388 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:44:16,626 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:44:30,088 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 08:44:35,687 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 08:44:51,119 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:44:51,251 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:46:11,241 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:46:11,369 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:46:39,502 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:46:39,628 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:47:11,916 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:47:12,109 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:47:49,876 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:47:50,028 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:48:29,456 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:48:29,821 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:49:48,632 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:49:48,808 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:50:25,307 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:50:26,549 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:50:40,372 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 08:51:07,996 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:51:08,259 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:51:16,167 | get_all_char_by_id.py | INFO | There is character with the 1 id in the DB
+2026-01-01 08:51:16,167 | get_all_char_by_id.py | INFO | There is no character with the 1 id from DB
+2026-01-01 08:51:23,080 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 08:51:52,757 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:51:52,946 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:52:09,130 | get_all_char_by_id.py | INFO | There is character with the 2.0 id in the DB
+2026-01-01 08:52:09,130 | get_all_char_by_id.py | INFO | There is no character with the 2.0 id from DB
+2026-01-01 08:52:40,533 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:52:40,685 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:52:52,845 | get_all_char_by_id.py | INFO | There is character with the 4.0 id in the DB
+2026-01-01 08:52:57,068 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 08:53:32,792 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:53:33,082 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:53:47,755 | get_all_char_by_id.py | INFO | There is character with the 14.0 id in the DB
+2026-01-01 08:53:47,755 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-01 08:53:53,753 | get_all_planets_by_id.py | INFO | There is planet with the 1 id in the DB
+2026-01-01 08:54:29,368 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:54:29,508 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:54:45,989 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 08:56:33,605 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:56:34,183 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:56:44,693 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 08:56:51,440 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:56:51,590 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:56:56,119 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 08:57:05,877 | get_all_char_by_id.py | INFO | There is character with the 4.0 id in the DB
+2026-01-01 08:57:12,465 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:57:12,599 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:57:19,452 | get_all_char_by_id.py | INFO | There is character with the 2.0 id in the DB
+2026-01-01 08:57:19,452 | get_all_char_by_id.py | INFO | There is no character with the 2.0 id from DB
+2026-01-01 08:57:25,376 | get_all_char_by_id.py | INFO | There is character with the 4.0 id in the DB
+2026-01-01 08:57:37,284 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:57:37,421 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:57:46,171 | get_all_planets_by_id.py | INFO | There is planet with the 1 id in the DB
+2026-01-01 08:57:50,935 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-01 08:57:54,350 | get_all_planets_by_id.py | INFO | There is planet with the 2 id in the DB
+2026-01-01 08:58:05,792 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:58:05,936 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:58:17,151 | get_all_planets_by_id.py | INFO | There is planet with the 22 id in the DB
+2026-01-01 08:58:24,929 | get_all_planets_by_id.py | INFO | There is planet with the 8 id in the DB
+2026-01-01 08:58:38,164 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:58:38,332 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:58:51,454 | get_all_planets_by_id.py | INFO | There is planet with the 1 id in the DB
+2026-01-01 08:58:54,680 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 08:59:14,297 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:59:14,419 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 08:59:31,981 | get_all_char_by_id.py | INFO | There is character with the 2.0 id in the DB
+2026-01-01 08:59:31,982 | get_all_char_by_id.py | INFO | There is no character with the 2.0 id from DB
+2026-01-01 08:59:40,337 | get_all_char_by_id.py | INFO | There is character with the 4.0 id in the DB
+2026-01-01 08:59:56,324 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 08:59:56,460 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:00:16,682 | get_all_char_by_id.py | INFO | There is character with the 5.0 id in the DB
+2026-01-01 09:00:42,924 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:00:43,066 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:01:04,445 | get_all_char_by_id.py | INFO | There is character with the 6.0 id in the DB
+2026-01-01 09:01:27,824 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:01:27,965 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:02:35,246 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:02:35,410 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:02:59,457 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:02:59,648 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:03:04,415 | get_all_char_by_id.py | INFO | There is character with the 1 id in the DB
+2026-01-01 09:03:04,415 | get_all_char_by_id.py | INFO | There is no character with the 1 id from DB
+2026-01-01 09:03:27,805 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:03:27,944 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:03:34,291 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 09:03:34,292 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 09:03:59,262 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:03:59,442 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:04:10,981 | get_all_char_by_id.py | INFO | There is character with the 4.0 id in the DB
+2026-01-01 09:04:37,596 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:04:37,731 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:07:39,861 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:07:40,005 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:07:47,275 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:07:47,397 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:07:59,100 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:07:59,227 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:08:05,755 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 09:08:14,594 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:08:14,704 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:08:23,034 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 09:08:33,415 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:08:33,537 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:08:44,691 | get_all_char_by_id.py | INFO | There is character with the 4.0 id in the DB
+2026-01-01 09:08:56,870 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:08:57,007 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:09:09,874 | get_all_char_by_id.py | INFO | There is character with the 5.0 id in the DB
+2026-01-01 09:09:23,701 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:09:23,878 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:09:38,899 | get_all_char_by_id.py | INFO | There is character with the 6.0 id in the DB
+2026-01-01 09:09:54,360 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:09:54,519 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:10:12,119 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 09:10:29,098 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:10:29,216 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:10:51,872 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-01 09:11:10,579 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:11:10,721 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:11:34,587 | get_all_planets_by_id.py | INFO | There is planet with the 1 id in the DB
+2026-01-01 09:11:54,732 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:11:54,868 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:13:05,061 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:13:05,208 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:13:30,681 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:13:30,810 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:13:35,146 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-01 09:14:00,107 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:14:00,269 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:14:06,484 | get_all_planets_by_id.py | INFO | There is planet with the 1 id in the DB
+2026-01-01 09:14:33,087 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:14:33,240 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:14:41,284 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 09:15:09,520 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:15:09,709 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:15:49,602 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:15:49,754 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:16:47,708 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:16:47,862 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:17:33,867 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:17:34,017 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:17:48,671 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 09:18:23,307 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 09:18:23,521 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 09:25:03,521 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 09:25:07,667 | get_all_char_by_id.py | INFO | There is character with the 4.0 id in the DB
+2026-01-01 09:25:18,796 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 09:25:29,439 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-01 09:25:34,681 | get_all_planets_by_id.py | INFO | There is planet with the 1 id in the DB
+2026-01-01 12:12:39,772 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 12:12:40,788 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 12:12:54,549 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 12:12:59,948 | get_all_char_by_id.py | INFO | There is character with the 1.0 id in the DB
+2026-01-01 12:13:05,631 | get_all_char_by_id.py | INFO | There is character with the 2.0 id in the DB
+2026-01-01 12:13:05,632 | get_all_char_by_id.py | INFO | There is no character with the 2.0 id from DB
+2026-01-01 12:13:11,436 | get_all_char_by_id.py | INFO | There is character with the 4.0 id in the DB
+2026-01-01 12:13:35,692 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 12:13:35,813 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 12:13:40,574 | get_all_char_by_id.py | INFO | There is character with the 5.0 id in the DB
+2026-01-01 12:13:46,526 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-01 12:13:50,116 | get_all_planets_by_id.py | INFO | There is planet with the 1 id in the DB
+2026-01-01 12:13:53,458 | get_all_planets_by_id.py | INFO | There is planet with the 2 id in the DB
+2026-01-01 12:13:55,583 | get_all_planets_by_id.py | INFO | There is planet with the 3 id in the DB
+2026-01-01 12:13:55,583 | get_all_planets_by_id.py | INFO | Error on getting planet 3 id from DB
+2026-01-01 12:14:01,073 | get_all_planets_by_id.py | INFO | There is planet with the 22 id in the DB
+2026-01-01 16:01:34,221 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 16:01:34,446 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 16:02:14,750 | get_all_char.py | INFO | Got all characters from DB
+2026-01-01 16:25:02,168 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 16:25:03,015 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 16:28:07,569 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 16:28:07,633 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 16:35:15,139 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 16:35:15,255 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 16:36:47,404 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 16:36:47,465 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-01 16:37:23,694 | get_all_planets_by_id.py | INFO | There is planet with the 22 id in the DB
+2026-01-01 16:37:26,530 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-01 16:37:59,510 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-01 16:37:59,589 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:20:33,501 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:20:34,005 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:20:51,568 | get_all_planets.py | INFO | Error on getting all planets from DB
+2026-01-04 09:21:26,545 | get_all_char.py | INFO | Error on getting all characters from DB
+2026-01-04 09:22:35,636 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:22:35,706 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:23:01,203 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:23:01,270 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:23:09,374 | get_all_char_by_id.py | INFO | There is no character with the 1.0 id from DB
+2026-01-04 09:24:01,328 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:24:01,419 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:24:19,093 | get_all_char_by_id.py | INFO | There is no character with the 1.0 id from DB
+2026-01-04 09:24:20,365 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:24:20,480 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:25:09,705 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:25:09,795 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:26:02,440 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:26:02,567 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:26:03,465 | get_all_char.py | INFO | Error on getting all characters from DB
+2026-01-04 09:26:18,314 | get_all_char_by_id.py | INFO | There is no character with the 5.0 id from DB
+2026-01-04 09:27:06,181 | get_all_char_by_id.py | INFO | There is no character with the 5.0 id from DB
+2026-01-04 09:27:13,637 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:27:13,723 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:30:25,568 | get_all_char_by_id.py | INFO | There is no character with the 5.0 id from DB
+2026-01-04 09:30:32,597 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:30:32,669 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:30:42,198 | get_all_char_by_id.py | INFO | There is no character with the 1.0 id from DB
+2026-01-04 09:31:35,544 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:31:35,672 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:31:35,681 | get_all_char_by_id.py | INFO | There is no character with the 1.0 id from DB
+2026-01-04 09:32:57,174 | get_all_char.py | INFO | Error on getting all characters from DB
+2026-01-04 09:34:35,901 | get_all_char.py | INFO | Error on getting all characters from DB
+2026-01-04 09:34:43,721 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:34:43,802 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:34:54,887 | get_all_char.py | INFO | Error on getting all characters from DB
+2026-01-04 09:50:06,117 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:50:06,216 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:50:21,440 | get_all_char_by_id.py | INFO | There is no character with the 1.0 id from DB
+2026-01-04 09:53:37,989 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 09:53:38,110 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 09:53:48,956 | get_all_char_by_id.py | INFO | There is no character with the 1.0 id from DB
+2026-01-04 10:03:51,570 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 10:03:51,689 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 10:06:00,901 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 10:06:00,989 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 10:07:14,927 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 10:07:15,004 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 10:09:04,348 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 10:09:04,482 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 10:09:18,854 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 10:09:18,942 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 10:09:34,707 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 10:09:34,782 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 10:10:22,419 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 10:10:22,486 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 10:10:40,567 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 10:10:40,644 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 10:11:45,028 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 10:11:45,124 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 10:53:31,303 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 10:53:31,414 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 11:00:03,586 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 11:00:03,712 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 11:01:01,860 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 11:01:01,930 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 11:04:13,000 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 11:04:13,063 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 11:04:37,722 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 11:04:37,801 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 11:07:05,137 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 11:07:05,221 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 11:07:51,261 | get_all_char.py | INFO | Got all characters from DB
+2026-01-04 11:08:59,273 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-04 11:17:21,892 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 11:17:21,985 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 14:23:26,142 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 14:23:26,432 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-04 14:27:25,688 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-04 14:27:25,767 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-05 15:54:20,460 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-05 15:54:21,067 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-05 15:54:31,369 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-05 15:54:31,460 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-05 15:54:42,283 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-05 15:54:42,361 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-05 15:54:55,993 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-05 15:54:56,074 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-05 15:55:12,173 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-05 15:55:12,241 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-05 15:55:31,077 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-05 15:55:31,144 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-05 15:55:52,781 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-05 15:55:52,865 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info

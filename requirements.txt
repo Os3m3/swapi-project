@@ -1,0 +1,8 @@
+dotenv==0.9.9
+fastapi==0.124.4
+httpx==0.28.1
+pandas==2.3.3
+psycopg2-binary==2.9.11
+requests==2.32.5
+response==0.5.0
+uvicorn==0.38.0
