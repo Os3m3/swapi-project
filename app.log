@@ -590,3 +590,82 @@ requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='swapi.info', port=443
 2026-01-06 12:04:46,240 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
 2026-01-06 12:05:06,765 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
 2026-01-06 12:05:06,850 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:34:05,920 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:34:06,005 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:34:19,183 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:34:19,244 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:34:37,917 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:34:37,998 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:35:40,177 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:35:40,252 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:37:11,202 | get_all_char.py | INFO | Got all characters from DB
+2026-01-06 12:41:11,227 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:41:11,407 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:43:23,393 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:43:23,570 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:43:37,007 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:43:37,073 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:43:55,937 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:43:56,023 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:44:54,965 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-06 12:45:04,331 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:45:04,425 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:45:20,195 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-06 12:45:31,824 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:45:32,002 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:46:58,309 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:46:58,414 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:47:47,860 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:47:47,937 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:47:53,334 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:47:53,411 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:50:16,740 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:50:16,820 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:51:54,622 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:51:54,752 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:52:17,616 | get_all_char.py | INFO | Got all characters from DB
+2026-01-06 12:53:18,209 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:53:18,299 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:53:28,804 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:53:28,910 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:54:29,536 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:54:29,642 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:55:20,614 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:55:20,681 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:56:11,023 | get_all_planets_by_id.py | INFO | There is planet with the 1 id in the DB
+2026-01-06 12:59:14,619 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:59:14,715 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 12:59:37,210 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 12:59:37,274 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:00:35,366 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 13:00:35,431 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:01:16,311 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 13:01:16,402 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:03:30,788 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-06 13:03:37,848 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 13:03:37,979 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:05:41,432 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 13:05:41,828 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:05:52,905 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-06 13:06:10,233 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-06 13:07:39,188 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 13:07:39,276 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:07:40,546 | get_all_planets.py | INFO | Got all planets from DB
+2026-01-06 13:07:44,044 | get_all_planets_by_id.py | INFO | There is planet with the 1 id in the DB
+2026-01-06 13:08:16,616 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 13:08:16,706 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:08:24,069 | get_all_char.py | INFO | Got all characters from DB
+2026-01-06 13:08:30,350 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 13:08:30,437 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:08:57,797 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 13:08:57,871 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:09:15,007 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 13:09:15,102 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:09:36,063 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 13:09:36,150 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:09:58,749 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 13:09:58,825 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:10:23,279 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-06 13:10:23,358 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-06 13:10:29,209 | get_all_char.py | INFO | Got all characters from DB
+2026-01-06 13:10:34,778 | get_all_char.py | INFO | Got all characters from DB

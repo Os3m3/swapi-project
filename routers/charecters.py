@@ -1,5 +1,5 @@
 from fastapi import APIRouter, HTTPException
-from typing import List, Dict
+from typing import List
 
 
 from endpoints import get_all_char, get_all_char_by_id
