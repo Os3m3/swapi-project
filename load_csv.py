@@ -21,7 +21,7 @@ def data_load():
 
         cur.execute("""
         CREATE TABLE IF NOT EXISTS swapi_characters (
-            uid TEXT PRIMARY KEY,
+            uid int PRIMARY KEY,
             name TEXT,
             url TEXT,
             height TEXT,
