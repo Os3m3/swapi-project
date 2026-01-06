@@ -1,4 +1,5 @@
 from pydantic import BaseModel
+from typing import Optional
 
 class swapiChar(BaseModel):
     uid: int
@@ -16,7 +17,7 @@ class swapiChar(BaseModel):
 
 class swapiHomeworld(BaseModel):
     homeworld_name: str
-    rotation_period: str
+    rotation_period: Optional[str] = None
     orbital_period: str
     diameter: str
     climate: str

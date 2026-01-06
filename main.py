@@ -1,12 +1,10 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI
 import uvicorn
 import asyncio
-from contextlib import asynccontextmanager
 from concurrent.futures import ThreadPoolExecutor
 from typing import List
 
-
-from endpoints import char_endpoint, details_endpoint, homeworld_endpoint, get_all_planets, get_all_planets_by_id
+from endpoints import char_endpoint, details_endpoint, homeworld_endpoint
 from data_trans import merge_csv
 from data_cleaning import data_cleaing
 from schemas import *
@@ -14,6 +12,7 @@ from load_csv import *
 from logger import log
 
 from routers.charecters import router as characters_router
+from routers.planets import planets_router as planets_router
 
 executor = ThreadPoolExecutor(max_workers=1)
 
@@ -52,9 +51,7 @@ async def lifespan(app: FastAPI):
             pass
 
 
-
 app = FastAPI(lifespan=lifespan)
-
 
 
 SWAPI_TECH_URL = "https://www.swapi.tech/api/people"
@@ -73,7 +70,6 @@ def fetch_all_char() -> dict:
         log.info("Error to get charecter from the endpoint")
         return e
 
-    
 
 @app.get("/details")
 def fetch_all_details()-> dict:
@@ -110,35 +106,9 @@ def load_data():
     return data_load()
 
 
-
-
-# Characteres
 app.include_router(characters_router)
+app.include_router(planets_router)
 
-
-# Planets ------------------------------
     
-@app.get("/planets")
-def get_planets():
-    try:
-        return get_all_planets.fetch_planets_from_db()
-    except Exception as e:
-        log.info("Error to get planets from the endpoint")
-        return e
-
-
-
-@app.get("/planets/{planet_id}")
-def get_characters_by_id(planet_id: str):
-    try:
-        plantet = get_all_planets_by_id.fetch_planet_from_db_by_id(planet_id)
-        return plantet
-    except Exception as e:
-        log.info("Error to get planets by id from the endpoint")
-        raise HTTPException(status_code=500, detail=str(e))
-
-
-
-
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
