@@ -3,14 +3,17 @@ import uvicorn
 import asyncio
 from contextlib import asynccontextmanager
 from concurrent.futures import ThreadPoolExecutor
+from typing import List
 
 
-from endpoints import char_endpoint, details_endpoint, homeworld_endpoint, get_all_char, get_all_char_by_id, get_all_planets, get_all_planets_by_id
+from endpoints import char_endpoint, details_endpoint, homeworld_endpoint, get_all_planets, get_all_planets_by_id
 from data_trans import merge_csv
 from data_cleaning import data_cleaing
 from schemas import *
 from load_csv import *
 from logger import log
+
+from routers.charecters import router as characters_router
 
 executor = ThreadPoolExecutor(max_workers=1)
 
@@ -62,7 +65,7 @@ file_path = "./data/swapi_char.csv"
 file_path_details = "./data/swapi_details.csv"
 file_path_homeworld= "./data/swapi_homeworld.csv"
 
-@app.get("/characters_from_api", response_model=list[swapiChar])
+@app.get("/characters_from_api", response_model=List[swapiChar])
 def fetch_all_char() -> dict:
     try:
         return char_endpoint.get_all_char()
@@ -94,7 +97,6 @@ def merg_all_csv():
         return e
     
 
-
 def fetched_data_cleaning():
     try:
         return data_cleaing()
@@ -109,26 +111,9 @@ def load_data():
 
 
 
+
 # Characteres
-
-@app.get("/characters")
-def get_characters():
-    try:
-        return get_all_char.fetch_char_from_db()
-    except Exception as e:
-        log.info("Error to get charecters from the endpoint")
-        return e
-
-
-
-@app.get("/character/{uid}")
-def get_character(uid: str):
-    result = get_all_char_by_id.fetch_char_from_db_by_id(uid)
-    if result is None:
-        raise HTTPException(status_code=404, detail=f"Character {uid} not found")
-    return result
-        
-
+app.include_router(characters_router)
 
 
 # Planets ------------------------------
@@ -156,4 +141,4 @@ def get_characters_by_id(planet_id: str):
 
 
 if __name__ == "__main__":
-    uvicorn.run("main:app", host="0.0.0.0", port=5555, reload=True)
+    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
