@@ -15,7 +15,7 @@ def fetch_planets_from_db ():
 
         cur = con.cursor()
 
-        sql_char_selection = "SELECT homeworld, homeworld_name, orbital_period, diameter, climate, gravity, terrain, surface_water, population FROM swapi_characters;"
+        sql_char_selection = "SELECT homeworld, homeworld_name, orbital_period, diameter, climate, gravity, terrain, surface_water, population FROM swapi_planets;"
         cur.execute(sql_char_selection)
         records = cur.fetchall()
         columns = [desc[0] for desc in cur.description]
