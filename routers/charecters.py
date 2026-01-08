@@ -9,7 +9,7 @@ from schemas import *
 router = APIRouter(prefix="/characters", tags=["characters"])
 
 
-@router.get(path="/", response_model=List[swapiChar])
+@router.get(path="/", response_model=List[swapiCharWithHomeworld])
 async def get_characters():
     try:
         return get_all_char.fetch_char_from_db()
@@ -19,7 +19,7 @@ async def get_characters():
     
 
 
-@router.get("/{uid}", response_model=swapiChar)
+@router.get("/{uid}", response_model=swapiCharWithHomeworld)
 async def get_character(uid: str):
     result = get_all_char_by_id.fetch_char_from_db_by_id(uid)
     if result is None:

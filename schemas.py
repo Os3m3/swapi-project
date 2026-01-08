@@ -27,3 +27,7 @@ class swapiHomeworld(BaseModel):
     population: str
 
 
+
+
+class swapiCharWithHomeworld(swapiChar):
+    homeworld:swapiHomeworld
