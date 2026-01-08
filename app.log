@@ -741,3 +741,108 @@ requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='swapi.info', port=443
 2026-01-07 16:34:54,873 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
 2026-01-07 16:35:04,057 | get_all_planets.py | INFO | Got all planets from DB
 2026-01-07 16:35:45,184 | get_all_char.py | INFO | Got all characters from DB
+2026-01-08 11:30:18,798 | char_endpoint.py | INFO | Error on getting all characters from SWAPI Tech
+2026-01-08 11:30:19,226 | details_endpoint.py | INFO | Error on getting all details from SWAPI Info
+2026-01-08 11:30:19,235 | homeworld_endpoint.py | ERROR | Error on getting all homeworlds from SWAPI Homeworld
+Traceback (most recent call last):
+  File "c:\Users\osamasaid\Desktop\Pro\swapi-project\endpoints\homeworld_endpoint.py", line 12, in get_homeworld
+    df = pd.read_csv(main.file_path_details)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/swapi_details.csv'
+2026-01-08 11:30:23,620 | char_endpoint.py | INFO | Error on getting all characters from SWAPI Tech
+2026-01-08 11:30:23,694 | details_endpoint.py | INFO | Error on getting all details from SWAPI Info
+2026-01-08 11:30:23,696 | homeworld_endpoint.py | ERROR | Error on getting all homeworlds from SWAPI Homeworld
+Traceback (most recent call last):
+  File "c:\Users\osamasaid\Desktop\Pro\swapi-project\endpoints\homeworld_endpoint.py", line 12, in get_homeworld
+    df = pd.read_csv(main.file_path_details)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/swapi_details.csv'
+2026-01-08 11:30:29,630 | char_endpoint.py | INFO | Error on getting all characters from SWAPI Tech
+2026-01-08 11:30:29,727 | details_endpoint.py | INFO | Error on getting all details from SWAPI Info
+2026-01-08 11:30:29,730 | homeworld_endpoint.py | ERROR | Error on getting all homeworlds from SWAPI Homeworld
+Traceback (most recent call last):
+  File "c:\Users\osamasaid\Desktop\Pro\swapi-project\endpoints\homeworld_endpoint.py", line 12, in get_homeworld
+    df = pd.read_csv(main.file_path_details)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\osamasaid\Desktop\Pro\swapi-project\.venv\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/swapi_details.csv'
+2026-01-08 11:32:44,066 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:32:44,150 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 11:33:05,224 | get_all_char.py | INFO | Error on getting all characters from DB
+2026-01-08 11:36:17,176 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:36:17,382 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 11:36:18,926 | get_all_char.py | INFO | Error on getting all characters from DB
+2026-01-08 11:37:07,155 | get_all_char.py | INFO | Error on getting all characters from DB
+2026-01-08 11:37:11,332 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:37:11,405 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 11:40:00,875 | get_all_char.py | INFO | Error on getting all characters from DB
+2026-01-08 11:40:08,126 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:40:08,205 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 11:40:11,855 | main.py | INFO | Error on data cleaning process
+2026-01-08 11:42:38,993 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:42:39,130 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 11:42:45,735 | main.py | INFO | Error on data cleaning process
+2026-01-08 11:50:43,203 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:50:43,424 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 11:53:16,936 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:53:17,002 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 11:53:26,356 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:53:26,445 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 11:54:10,878 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:54:10,944 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 11:57:25,736 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:57:25,858 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 11:57:59,258 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:57:59,329 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 11:58:21,098 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:58:21,191 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 11:59:17,582 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 11:59:17,644 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 12:00:41,123 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 12:00:41,206 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-08 12:01:25,264 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-08 12:01:25,346 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
