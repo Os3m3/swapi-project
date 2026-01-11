@@ -17,8 +17,8 @@ async def get_planets():
         return e
     
 
-@planets_router.get(path="/{planet_id}", response_model=swapiHomeworld)
-async def get_characters_by_id(planet_id: str):
+@planets_router.get(path="/{planet_id}")
+async def get_planet(planet_id: str):
     try:
         plantet = get_all_planets_by_id.fetch_planet_from_db_by_id(planet_id)
         return plantet

@@ -1,0 +1,316 @@
+2026-01-11 05:05:08,311 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:05:09,104 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:05:21,290 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:05:21,456 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:05:32,997 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:05:33,512 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:05:52,625 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:05:52,763 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:06:11,336 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:06:11,494 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:06:34,447 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:06:34,714 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:07:02,847 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:07:02,988 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:07:33,240 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:07:33,400 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:08:08,531 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:08:08,701 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:08:49,081 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:08:49,229 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:09:30,226 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:09:30,431 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:10:20,828 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:10:21,010 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:11:25,010 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:11:25,146 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:12:15,983 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:12:16,153 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:13:14,491 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:13:14,692 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:14:17,321 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:14:17,462 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:15:22,589 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:15:22,792 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:16:28,444 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:16:28,599 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:17:40,943 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:17:41,145 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:18:54,545 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:18:54,676 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:20:12,099 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:20:12,256 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:21:04,015 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:21:04,160 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:21:10,333 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:21:10,489 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:21:20,519 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:21:20,658 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:21:39,424 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:21:39,579 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:21:57,355 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:21:57,541 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:22:19,842 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:22:20,002 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:22:45,685 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:22:45,839 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:23:17,340 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:23:17,493 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:23:53,209 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:23:53,396 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:24:33,583 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:24:33,754 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:25:18,095 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:25:18,283 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:26:02,011 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:26:02,151 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:26:49,508 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:26:49,667 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:27:40,040 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:27:40,166 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:28:33,732 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:28:33,866 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:29:30,663 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:29:30,793 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:30:31,807 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:30:31,983 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:31:37,084 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:31:37,242 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:32:44,692 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:32:44,874 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:33:55,663 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:33:55,838 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:35:11,403 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:35:11,554 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:36:06,374 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:36:06,499 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:36:52,296 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:36:52,471 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:37:49,624 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:37:49,839 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:38:49,453 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:38:49,629 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:39:52,704 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:39:52,857 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:40:57,377 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:40:57,515 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:42:06,665 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:42:06,810 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:43:07,607 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:43:07,734 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:44:24,773 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:44:24,908 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:45:35,039 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:45:35,196 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:46:51,634 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:46:51,752 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:48:10,150 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:48:10,310 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:49:33,178 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:49:33,383 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:51:01,068 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:51:01,217 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:52:30,034 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:52:30,203 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:53:58,562 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:53:58,727 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:55:31,803 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:55:31,948 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:56:50,106 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:56:50,235 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:58:13,175 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:58:13,309 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 05:59:42,395 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 05:59:42,577 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:01:09,285 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:01:09,443 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:02:44,695 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:02:44,853 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:04:32,826 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:04:33,027 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:06:20,085 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:06:20,249 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:08:04,007 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:08:04,146 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:09:50,512 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:09:50,648 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:11:44,145 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:11:44,321 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:13:31,231 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:13:31,361 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:15:26,996 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:15:27,152 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:17:15,941 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:17:16,101 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:19:12,159 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:19:12,295 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:21:01,633 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:21:01,801 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:22:57,712 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:22:57,863 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:24:56,907 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:24:57,053 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:26:56,796 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:26:56,940 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:28:56,121 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:28:56,284 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:30:59,322 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:30:59,475 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:33:19,618 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:33:19,767 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:35:32,697 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:35:32,842 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:37:39,319 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:37:39,446 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:39:50,907 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:39:51,026 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:42:01,474 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:42:01,647 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:44:04,992 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:44:05,130 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:46:17,055 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:46:17,203 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:48:35,161 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:48:35,305 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:50:54,668 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:50:54,801 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:53:17,312 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:53:17,635 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:55:45,746 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:55:45,882 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 06:58:24,546 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 06:58:24,709 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:01:14,738 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:01:14,886 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:04:16,818 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:04:16,985 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:07:10,601 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:07:11,010 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:10:27,751 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:10:27,916 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:13:18,033 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:13:18,225 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:16:18,549 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:16:18,706 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:19:18,358 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:19:18,609 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:22:14,196 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:22:14,332 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:25:06,935 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:25:07,089 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:28:05,436 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:28:05,657 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:30:57,254 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:30:57,410 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:33:49,318 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:33:49,460 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:36:48,747 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:36:48,944 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:39:48,826 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:39:48,982 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:42:52,946 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:42:53,120 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:45:52,328 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:45:52,482 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:48:51,142 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:48:51,336 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:51:53,382 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:51:53,530 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:54:57,264 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:54:57,404 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 07:58:09,412 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 07:58:09,595 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:01:18,889 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:01:19,028 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:04:27,010 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:04:27,167 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:07:42,040 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:07:42,357 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:10:59,656 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:10:59,814 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:14:18,071 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:14:18,254 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:17:45,243 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:17:45,374 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:21:14,551 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:21:14,702 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:24:56,409 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:24:56,680 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:28:23,769 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:28:23,920 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:31:57,062 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:31:57,196 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:35:35,155 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:35:35,393 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:39:03,307 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:39:03,453 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:42:41,754 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:42:41,923 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:46:30,642 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:46:30,766 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:50:10,370 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:50:10,588 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:53:56,949 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:53:57,134 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 08:57:51,638 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 08:57:51,821 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:01:34,211 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:01:34,359 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:05:17,171 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:05:17,299 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:09:05,007 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:09:05,135 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:12:57,712 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:12:57,849 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:16:46,117 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:16:46,257 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:20:38,404 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:20:38,605 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:24:35,809 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:24:35,950 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:28:36,929 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:28:37,106 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:32:34,647 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:32:34,785 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:37:15,573 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:37:15,728 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:41:16,928 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:41:17,058 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:45:20,642 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:45:20,832 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:49:47,241 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:49:47,359 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:53:53,769 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:53:53,883 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 09:58:04,693 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 09:58:04,815 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:02:24,725 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:02:24,889 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:06:43,510 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:06:43,672 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:10:56,988 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:10:57,147 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:15:25,153 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:15:25,327 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:15:34,031 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:15:34,229 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:15:50,083 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:15:50,254 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:16:09,058 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:16:09,200 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:16:29,709 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:16:29,887 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:16:58,435 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:16:58,560 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:17:30,953 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:17:31,080 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:20:03,320 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:20:03,483 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:20:35,075 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:20:35,198 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:21:08,960 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:21:09,121 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:21:46,775 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:21:46,922 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info
+2026-01-11 10:22:30,919 | char_endpoint.py | INFO | Got all characters from SWAPI Tech
+2026-01-11 10:22:31,609 | details_endpoint.py | INFO | Got all characters  detalis from SWAPI Info

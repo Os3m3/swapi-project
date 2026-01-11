@@ -16,7 +16,7 @@ def fetch_planet_from_db_by_id (planet_id: str):
 
         cur = con.cursor()
 
-        sql_char_selection = "SELECT homeworld, homeworld_name, orbital_period, diameter, climate, gravity, terrain, surface_water, population FROM swapi_characters WHERE homeworld = %s;"
+        sql_char_selection = "SELECT homeworld, homeworld_name, orbital_period, diameter, climate, gravity, terrain, surface_water, population FROM swapi_planets WHERE homeworld = %s;"
         cur.execute(sql_char_selection, (target_url,))
         record = cur.fetchone()
         columns = [desc[0] for desc in cur.description]
